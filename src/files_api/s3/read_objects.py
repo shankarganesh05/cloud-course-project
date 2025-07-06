@@ -1,6 +1,6 @@
 """Functions for reading objects from an S3 bucket--the "R" in CRUD."""
 
-from tkinter import N
+#from tkinter import N
 from typing import Optional
 
 import boto3
