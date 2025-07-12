@@ -16,6 +16,12 @@ help:
 install:
 	bash run.sh install
 
+run:
+	bash run.sh run
+
+run_mock:
+	bash run.sh run_mock
+
 lint:
 	bash run.sh lint
 
